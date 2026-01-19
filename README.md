@@ -1,0 +1,2 @@
+# GETSum-A-Graph-Enhanced-Transformer-for-Coherent-Extractive-and-Abstractive-Text-Summarization
+GETSum: Graph-Enhanced Transformer for Coherent Extractive &amp; Abstractive Summarization Lightweight hybrid model fusing BERT contextual embeddings with discourse-aware GAT and adaptive gating. Unified extractive/abstractive pipeline, interpretable via GAT attention. Trained on CNN/DailyMail. Competitive ROUGE &amp; BERTScore with improved coherence.
